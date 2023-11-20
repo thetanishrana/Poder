@@ -1,1 +1,10 @@
-requirements
+streamlit
+requests
+streamlit_lottie
+numpy
+pandas
+yfinance
+prophet
+plotly
+matplotlib
+openai
