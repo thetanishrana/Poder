@@ -1,0 +1,13 @@
+streamlit
+json
+requests
+streamlit_lottie
+numpy
+datetime
+time
+pandas
+yfinance
+prophet
+plotly
+matplotlib
+openai
