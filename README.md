@@ -1,4 +1,4 @@
-<h1>Poder - Financial Education Platform</h1>
+<h1>Poder -  The Financial Education Website</h1>
 
 <p align="justify">Developed an interactive platform for 18-30-year-olds to enhance financial literacy and understand technical analysis using animated visualizations, historical data tools, and a GPT-powered chatbot. Achieved increased user engagement and comprehension. Skills used included web development, data analysis, and machine learning. The platform aids informed investment decisions among young adults.</p>
 
